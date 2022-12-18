@@ -25,3 +25,10 @@ P(y > 12 | y > 10) = P(y > 10) - P(y > 12) / P(y > 10) = 0.44049 - 0.2851 / 0.44
 ### 1) La quantité d'acide nitrique dans le mélange chimique est significativement égale à 10mg.
 ### 2) IC = \[9,63 ; 10,07] et E = 0,2246
 ### 3) n = 35
+
+# Exercice \#5
+### 1) IC = \[0,3114 ; 0,3686] et E = 0,0286
+### 2) n = 1 946
+### 3) n = 3 137
+### 4) On rejette H0 et on accepte H1.
+### 5) $\alpha$ min = 0,0029
