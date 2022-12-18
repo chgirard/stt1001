@@ -1,4 +1,5 @@
 # Exercice \#1
+$$X_i \sim \text{Exp}(\lambda = 0,50)$$
 ### 1)
 $0,3679$
 ### 2) 
