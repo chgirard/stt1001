@@ -32,3 +32,9 @@ P(y > 12 | y > 10) = P(y > 10) - P(y > 12) / P(y > 10) = 0.44049 - 0.2851 / 0.44
 ### 3) n = 3 137
 ### 4) On rejette H0 et on accepte H1.
 ### 5) $\alpha$ min = 0,0029
+
+# Exercice \#6
+### 1) X1 = 70,6; S^2 = 88,71
+### 2) X2 = 70; S^2 = 100,444
+### 3) F appartient à \[0,2484; 4,026] on accepte donc H0 et on rejette H1. Les variances sont significativement égales.
+### 4) On rejette H0 et on accepte H1. La moyenne des durées de combustion sont significativement différentes pour un seuil de 5%.
