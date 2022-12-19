@@ -111,7 +111,9 @@ Aucun $\alpha$ raisonnable ne permet de rejeter $H_0$
 
 # Exercice \#8
 ### 1)
+$0,5500 < 1,96 \rightarrow |Z| < Z_{\frac{\alpha}{2}} \rightarrow H_0$ conservée et $H_1$ rejetée.
 
 ### 2)
+$\alpha_{min} = 0,5824$
 
 # Exercice \#9
