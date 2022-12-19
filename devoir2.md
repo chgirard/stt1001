@@ -43,10 +43,14 @@ $0,784$
 $$H_0 : \mu = 10 \quad H_1 : \mu \neq 10$$
 $$n = 20 \quad \bar{X} = 9,85 \quad s = 0,48$$
 ### 1)
-
+$1,398 < 2,086 \rightarrow |T| < t_{\frac{\alpha}{2};n-1} \rightarrow H_0$ conservée et $H_1$ rejetée.
 ### 2)
+$E = 0,2239$
+
+$IC = [9,626 \ ; 10,07]$
 
 ### 3)
+$n \geq 35$
 
 # Exercice \#5
 ### 1)
