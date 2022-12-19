@@ -91,26 +91,18 @@ $$H_0 : \mu_1 = \mu_2 \quad H_1 : \mu_1 \neq \mu_2$$
 $0,138 < 2,101 \rightarrow |T| < t_{\frac{\alpha}{2}; n_1 + n_2 - 2} \rightarrow H_0$ conservée et $H_1$ rejetée $\rightarrow \mu_1 = \mu_2$
 
 # Exercice \#7
+$$X_1 \sim N(\mu_1 ; \sigma_1^2 = 0,015^2)$$
+$$X_2 \sim N(\mu_2 ; \sigma_1^2 = 0,018^2)$$
 ### 1)
 $H_0 : \mu_1 = \mu_2 \quad H_1 : \mu_1 \neq \mu_2$
 
 ### 2)
-Soient maintenant $H_0^{\prime} : \sigma_1^2 = \sigma_2^2 \quad H_1^{\prime} : \sigma_1^2 \neq \sigma_2^2$
+Sachant $\sigma_1$ et $\sigma_2$, on se trouve au cas 1.
 
-$1,412 \in \left[0,248 ; 4,026\right] \rightarrow F \in \left[\frac{1}{F_{\frac{\alpha}{2}; n_2-1; n_1-1}} ; F_{\frac{\alpha}{2}; n_1-1; n_2-1}\right] \rightarrow H_0^{\prime}$ conservée et $H_1^{\prime}$ rejetée $\rightarrow \sigma_1^2 = \sigma_2^2$
-
-$\rightarrow$ On est au cas 2.
-
-$s_c^2 = 0,0007842$
-
-$0,505 < 2,101 \rightarrow |T| < t_{\frac{\alpha}{2}; n_1 + n_2 - 1} \rightarrow H_0$ conservée et $H_1$ rejetée.
+$1,350 < 1,96 \rightarrow |Z| < Z_{\frac{\alpha}{2}} \rightarrow H_0$ conservée et $H_1$ rejetée.
 
 ### 3)
-Pour $\alpha = 0,5$ :
-
-$0,505 < 0,688 \rightarrow |T| < t_{\frac{\alpha}{2}; n_1 + n_2 - 1} \rightarrow H_0$ toujours conservée.
-
-Aucun $\alpha$ raisonnable ne permet de rejeter $H_0$
+$\alpha_{min} = 0,177$
 
 # Exercice \#8
 $$H_0 : p_1 = p_2 \quad H_1 : p_1 \neq p_2$$
