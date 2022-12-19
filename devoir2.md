@@ -69,7 +69,7 @@ $n \geq 3137$
 $H_0$ rejetée et $H_1$ acceptée, car $2,760 > 1,645$
 
 ### 5)
-$\alpha_{min} = 2,9\%$
+$\alpha_{min} = 0,029$
 
 # Exercice \#6
 ### 1)
