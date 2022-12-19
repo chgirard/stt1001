@@ -70,7 +70,7 @@ $$H_0 : p = 0,3 \quad H_1 : p > 0,3$$
 $H_0$ rejetée et $H_1$ acceptée, car $2,760 > 1,645$
 
 ### 5)
-$\alpha_{min} = 0,029$
+$\alpha_{min} = 0,0029$
 
 # Exercice \#6
 ### 1)
