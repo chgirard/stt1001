@@ -40,6 +40,7 @@ $0,493$
 $0,784$
 
 # Exercice \#4
+$$X \sim N(\mu ; \sigma^2)$$
 $$H_0 : \mu = 10 \quad H_1 : \mu \neq 10$$
 $$n = 20 \quad \bar{X} = 9,85 \quad s = 0,48$$
 ### 1)
