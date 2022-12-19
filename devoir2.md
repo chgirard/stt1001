@@ -66,6 +66,7 @@ $n \geq 1946$
 $n \geq 3137$
 
 ### 4)
+$$H_0 : p = 0,3 \quad H_1 : p > 0,3$$
 $H_0$ rejetée et $H_1$ acceptée, car $2,760 > 1,645$
 
 ### 5)
@@ -82,9 +83,11 @@ $\bar{x}_2 = 70$
 
 $s_2^2 = 100,4$
 ### 3)
+$$H_0 : \sigma_1 = \sigma_2 \quad H_1 : \sigma_1 \neq \sigma_2$$
 $0,248 < 0,884 < 4,026 \rightarrow |T| \in \left[\frac{1}{F_{\frac{\alpha}{2}; n_2-1; n_1-1}} ; F_{\frac{\alpha}{2}; n_1-1; n_2-1}\right] \rightarrow H_0$ conservée et $H_1$ rejetée. $\rightarrow \sigma_1 = \sigma_2$
 
 ### 4)
+$$H_0 : \mu_1 = \mu_2 \quad H_1 : \mu_1 \neq \mu_2$$
 $0,138 < 2,101 \rightarrow |T| < t_{\frac{\alpha}{2}; n_1 + n_2 - 2} \rightarrow H_0$ conservée et $H_1$ rejetée $\rightarrow \mu_1 = \mu_2$
 
 # Exercice \#7
@@ -110,6 +113,7 @@ $0,505 < 0,688 \rightarrow |T| < t_{\frac{\alpha}{2}; n_1 + n_2 - 1} \rightarrow
 Aucun $\alpha$ raisonnable ne permet de rejeter $H_0$
 
 # Exercice \#8
+$$H_0 : p_1 = p_2 \quad H_1 : p_1 \neq p_2$$
 ### 1)
 $0,5500 < 1,96 \rightarrow |Z| < Z_{\frac{\alpha}{2}} \rightarrow H_0$ conservée et $H_1$ rejetée.
 
@@ -117,3 +121,12 @@ $0,5500 < 1,96 \rightarrow |Z| < Z_{\frac{\alpha}{2}} \rightarrow H_0$ conservé
 $\alpha_{min} = 0,5824$
 
 # Exercice \#9
+$$H_0 : \mu_D > 0 \quad H_1 : \mu_D = 0$$
+
+$\bar{D} = 18,58$
+
+$S_D^2 = 102,08$
+
+$6,37 > 1,796 \rightarrow T > t_{\alpha ; n-1}$
+
+$\rightarrow H_0$ conservée et $H_1$ rejetée
