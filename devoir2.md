@@ -107,7 +107,7 @@ $\alpha_{min} = 0,177$
 # Exercice \#8
 $$H_0 : p_1 = p_2 \quad H_1 : p_1 \neq p_2$$
 ### 1)
-$0,5500 < 1,96 \rightarrow |Z| < Z_{\frac{\alpha}{2}} \rightarrow H_0$ conservée et $H_1$ rejetée.
+$0,631 < 1,96 \rightarrow |Z| < Z_{\frac{\alpha}{2}} \rightarrow H_0$ conservée et $H_1$ rejetée.
 
 ### 2)
 $\alpha_{min} = 0,5824$
